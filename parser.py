@@ -3,7 +3,7 @@ import string
 from bs4 import BeautifulSoup
 import pandas as pd
 
-NUMBER_OF_PAGES = 3
+NUMBER_OF_PAGES = 10
 
 def tokenize_question(query):
     tokens = "".join([ch for ch in query if ch not in string.punctuation]).split()
