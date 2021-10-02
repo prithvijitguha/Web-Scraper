@@ -4,8 +4,8 @@
 
 ## Usage 
 
-```Powershell
-python parser.py 
+```console
+>python parser.py 
 search term: <enter search term here>
 Save data to excel file?(Y) <choose to save>
 filename: <save file name>
