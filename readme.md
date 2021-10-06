@@ -6,6 +6,8 @@
 
 ![demo](assets/demo.gif "demo")
 
+![csv](assets/csv_demo.PNG "csv demo")
+
 ## Instructions to run locally 
 
 - git clone https://github.com/prithvijitguha/Web-Scraper.git
