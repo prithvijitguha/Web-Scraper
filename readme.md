@@ -4,12 +4,7 @@
 
 ## Usage 
 
-```console
->python parser.py 
-search term: "enter search term here"
-Save data to excel file?(Y) "choose to save"
-filename: "save file name"
-```
+![demo](assets/demo.gif "demo")
 
 ## Instructions to run locally 
 
