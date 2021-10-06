@@ -4,9 +4,13 @@
 
 ## Usage 
 
-![demo](assets/demo.gif "demo")
+<img src="assets/demo.gif" width="600px">
+<br />
+<br />
 
-![csv](assets/csv_demo.PNG "csv demo")
+
+## Final CSV file for analysis
+<img src="assets/csv_demo.PNG" width="600px">
 
 ## Instructions to run locally 
 
